@@ -17,3 +17,10 @@
 - 代码示例：
 [spring-boot-demo的redisson-spring-boot-starter分支](https://github.com/dustheart/spring-boot-demo/tree/redisson-spring-boot-starter)
 
+### Spring Cloud Ribbon使用和原理
+代码示例：
+- 主：[spring-cloud-user-service的main分支](https://github.com/dustheart/spring-cloud-user-service)
+  - [文档](https://github.com/dustheart/spring-cloud-user-service/blob/main/README.md)
+- 辅：[spring-cloud-order-service的main分支](https://github.com/dustheart/spring-cloud-order-service)
+  - [文档](https://github.com/dustheart/spring-cloud-order-service/blob/main/README.md)
+
