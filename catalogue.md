@@ -20,7 +20,9 @@
 ### Spring Cloud Ribbon使用和原理
 代码示例：
 - 主：[spring-cloud-user-service的main分支](https://github.com/dustheart/spring-cloud-user-service)
-  - [文档](https://github.com/dustheart/spring-cloud-user-service/blob/main/README.md)
+  - [文档--ribbon原理分析](https://github.com/dustheart/spring-cloud-user-service/blob/main/README.md)
+  - [文档--请求到LoadBalancerInterceptor详解](https://github.com/dustheart/spring-cloud-user-service/blob/main/LoadBalancerInterceptor.md)
+  - [文档--new ZoneAwareLoadBalancer详解](https://github.com/dustheart/spring-cloud-user-service/blob/main/ZoneAwareLoadBalancer.md)
 - 辅：[spring-cloud-order-service的main分支](https://github.com/dustheart/spring-cloud-order-service)
   - [文档](https://github.com/dustheart/spring-cloud-order-service/blob/main/README.md)
 
